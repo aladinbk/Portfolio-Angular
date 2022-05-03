@@ -47,9 +47,9 @@ export class HeaderComponent implements OnInit, OnDestroy {
     //   ruta: 'app/portafolio/contactame',
     // },
     {
-      nombre: 'Portafolio',
+      nombre: 'Portfolio',
       icono: 'iconsminds-management',
-      ruta: 'app/portafolio/contactame',
+      ruta: 'app/portfolio/contactame',
     },
     // {
     //   nombre: 'Proyecto',
@@ -62,7 +62,7 @@ export class HeaderComponent implements OnInit, OnDestroy {
     //   ruta: 'app/portafolio/contactame',
     // },
     {
-      nombre: 'Contacto',
+      nombre: 'Contact',
       icono: 'iconsminds-smartphone-4',
       ruta: 'app/portafolio/contactame',
     },

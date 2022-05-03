@@ -138,7 +138,7 @@ export class AppComponent implements OnInit, OnDestroy, AfterViewInit {
           case 'Expériences':
             this.elemetoHtmlSeleccionado(this.qualification);
             break;
-          case 'Portafolio':
+          case 'Portfolio':
             this.elemetoHtmlSeleccionado(this.portfolio);
             break;
           case 'Proyecto':
@@ -147,7 +147,7 @@ export class AppComponent implements OnInit, OnDestroy, AfterViewInit {
           case 'Testimonio':
             this.elemetoHtmlSeleccionado(this.testimonial);
             break;
-          case 'Contacto':
+          case 'Contact':
             this.elemetoHtmlSeleccionado(this.contact);
             break;
 
